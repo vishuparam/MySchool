@@ -1,0 +1,54 @@
+nav ul {
+    list-style-type: none;
+    background-color: black;
+    display: flex;
+    border-radius: 1pc;
+  }
+  
+  nav ul li a{
+    color: red;
+    font-family: monospace;
+    font-size: x-large;
+  }
+  
+  nav ul li {
+    margin-left: 220px;
+    padding: 30px;
+  }
+
+  body {
+    text-align: center;
+    background-color: gray;
+    font-family: 'Cinzel', serif;
+  }
+
+  .Divs{
+    background-color: red;
+    border-radius: 1pc;
+  }
+
+  #SchoolLogo{
+    height: 200px;
+  }
+
+  .Title{
+    font-size: xxx-large;
+    color: white;
+  }
+
+  .texts{
+    color: white;
+    font-size: x-large;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .LineBreak{
+    height: 3px;
+    background-color: white;
+  }
+
+  .Subtitle{
+    color: white;
+  }
